@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QR Code Scanner</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_scan">Scan QR Code</string>
+    <string name="placeholder_search">Search entry...</string>
+    <string name="label_history">Scan History</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_scan">ScanActivity</string>
+</resources>
